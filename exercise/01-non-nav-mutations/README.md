@@ -14,7 +14,7 @@ This is where `useFetcher()` comes in. With `useFetcher()`, you can create a mut
 
 ## 💪 Exercise
 
-In this exercise, we need to change from a regular `form` to a `useFetcher().Form` so we can avoid the full-page refresh, avoid history stack additions, and (in the next exercises) add optimistic UI and focus management. Go to the deposit form that shows up on the invoice details route and turn that into a `useFetcher().form`.
+In this exercise, we need to change from a regular `form` to a `useFetcher().Form` so we can avoid the full-page refresh, avoid history stack additions, and (in the next exercises) add optimistic UI and focus management. Go to the deposit form that shows up on the invoice details route and turn that into a `useFetcher().Form`.
 
 Interesting, the UI already technically works (hooray progressive enhancement!). So the required changes here will be quite minimal. When you're done you'll wonder "is that all?" Yes... it is.
 
